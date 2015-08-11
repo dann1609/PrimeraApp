@@ -56,7 +56,8 @@
             android:text="Segundo Boton"
             android:id="@+id/button6"
             android:layout_weight="1"
-            android:onClick="Metodo1"/>
+            android:onClick="Metodo1"
+            android:textStyle="bold|italic"/>
 
         <Button
             android:layout_width="0dp"
